@@ -1,2 +1,2 @@
 # Large-Language-model-warehouse-
-Tools , Methodologies and learning Materials 
+Tools, Methodologies and Learning Materials.
